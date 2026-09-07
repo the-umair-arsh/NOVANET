@@ -1,4 +1,4 @@
-# 🌐 NOVANET — Multi-City Enterprise Network Simulation
+# 🌐 NOVANET INTERNET SERVICE PROVIDER COMPANY (Multi-City Enterprise Network Simulation)
 
 <p align="center">
   <b>A Cisco Packet Tracer-based enterprise network simulation designed with VLAN segmentation, IP addressing, DHCP, DNS, and inter-network connectivity.</b>
